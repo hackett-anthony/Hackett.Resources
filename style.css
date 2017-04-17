@@ -1,26 +1,24 @@
-
-
 .right{
     float: right;
 }
 
 .left{
-  width:50%;
-    color:blue;
-    float: left;
+  color:blue;
+  float: left;
 }
   
 .myDiv{
-            border-style: groove;
-            width:atot;
-            color:gold;
-            
-                
+    border-style: groove;
+     width:50%;
+     color:gold;      
+      box-sizing: border-box;          
     }
 
-body {background-image: url("https://greatphillyschools.org/uploads/files/561776252260029443-hackett-photo.0.163.2169.1301.full.jpg");
+body {background-color: #307af2;
 background-size:cover}
 
 .myDiv{
     width: 50%;
 }
+
+.myDiv float: right;
